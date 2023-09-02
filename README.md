@@ -1,5 +1,5 @@
 - 💞️ Hi, I’m Yulia
-- 🧬 Received a master's degree in genetics
+- 🧬 I completed a MSc in genetics
 - 👨‍💻 I’m interested in bioinformatics, genetics and microbiology
 - 💃🏻 I like cheerleading
 - 🤖 I would like to develop my own tool
