@@ -1,5 +1,5 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]([JuliN_Di](https://t.me/JuliN_Di)) <h1 align="center">Hi there, I'm Yulia</a> 
-<img src="https://media.tenor.com/tIORLVVi0OAAAAAi/pickles.gif" height="120"/></h1>
+<img src="https://media.tenor.com/tIORLVVi0OAAAAAi/pickles.gif" width="80" height="80"/></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&random=false&width=1300&lines=Geneticist%2C+microbiologist%2C+aspiring+bioinformatician%2Fdata+scientist🧬 " alt="Typing SVG" /></a>
 
