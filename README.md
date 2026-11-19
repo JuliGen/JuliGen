@@ -1,7 +1,17 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]([JuliN_Di](https://t.me/JuliN_Di)) <h1 align="center">Hi there, I'm Yulia</a> 
 <img src="https://media.tenor.com/tIORLVVi0OAAAAAi/pickles.gif" width="80" height="80"/></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&random=false&width=1300&lines=Geneticist%2C+microbiologist%2C+aspiring+bioinformatician%2Fdata+scientist🧬 " alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=1100&height=65&lines=Geneticist%2C+microbiologist%2C+bioinformatician%2Fdata+scientist+%F0%9F%A7%AC"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
+
 
 ## About Me:
 - 👨‍🔬 I completed a MSc in genetics
